@@ -10,7 +10,11 @@
 
 ### To launch the application:
 
-```chmod +x run.sh ```
+```
+chmod +x run.sh 
+
+./run.sh
+```
 
 Open another terminal/tab and run:
 
